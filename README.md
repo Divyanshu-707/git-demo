@@ -1,2 +1,2 @@
-# git-demo
+# ApnaCollege-demo
 excited to learn git
